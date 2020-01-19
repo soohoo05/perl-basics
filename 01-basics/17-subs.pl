@@ -1,7 +1,7 @@
 #subs in perl is the same as functions in other languages
 
 #sub NAME{
-  #do something
+#do something
 #}
 
 # NAME()
@@ -13,8 +13,8 @@ sub multiply {
     return $ops[0] * $ops[1];
 }
 
-for $i (1 .. 10) {
-     print "$i squared is ", multiply($i, $i), "\n";
+for $i ( 1 .. 10 ) {
+    print "$i squared is ", multiply( $i, $i ), "\n";
 }
 
 #like ruby, last stement is returned if not expressed

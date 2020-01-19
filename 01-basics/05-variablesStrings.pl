@@ -14,8 +14,7 @@ print "\n";
 #with an interpreted string, can add other variables into the string
 $name = "Tyler";
 #this will print "Tyler is 5 years old"
-print " $name is $i years old"
-;
+print " $name is $i years old";
 #new line to seperate examples
 print "\n";
 

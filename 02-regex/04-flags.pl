@@ -3,6 +3,6 @@
 # i makes a match case-insensitive
 
 $bob = "Hello Bob";
-if($bob =~ /bob/i){
-  print "bob is here";
+if ( $bob =~ /bob/i ) {
+    print "bob is here";
 }

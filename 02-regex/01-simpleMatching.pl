@@ -6,6 +6,6 @@
 # if(string =~ /regex/)
 
 $user_location = "I see thirteen black cats under a ladder.";
-    if ($user_location =~ /thirteen/) {
-        print "Eek, bad luck!\n";
-    }
+if ( $user_location =~ /thirteen/ ) {
+    print "Eek, bad luck!\n";
+}
