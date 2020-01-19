@@ -28,6 +28,7 @@ Table of contents
 
 
 [Part 2 - Perl Regex](https://github.com/soohoo05/perl-basics/tree/master/02-regex)  
+
 [1. Simple Matching](https://github.com/soohoo05/perl-basics/blob/master/02-regex/01-simpleMatching.pl)  
 [2. Meta Characters](https://github.com/soohoo05/perl-basics/blob/master/02-regex/02-metaCharacters.pl)  
 [3. Character Classes](https://github.com/soohoo05/perl-basics/blob/master/02-regex/03-characterClasses.pl)  
