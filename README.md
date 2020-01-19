@@ -25,12 +25,13 @@ Repository containing tutorial files on basic perl
 [16. File Handler](https://github.com/soohoo05/perl-basics/blob/master/01-basics/16-filehandles.pl)  
 [17. Subs/Functions](https://github.com/soohoo05/perl-basics/blob/master/01-basics/17-subs.pl)  
 [18. Private Variables](https://github.com/soohoo05/perl-basics/blob/master/01-basics/18-privateVariable.pl)  
-
+[19. Array to Scalar Assignment](https://github.com/soohoo05/perl-basics/blob/master/01-basics/19-arrayToScalarAssignment.pl)
 
 [Part 2 - Perl Regex](https://github.com/soohoo05/perl-basics/tree/master/02-regex)  
 
 [1. Simple Matching](https://github.com/soohoo05/perl-basics/blob/master/02-regex/01-simpleMatching.pl)  
 [2. Meta Characters](https://github.com/soohoo05/perl-basics/blob/master/02-regex/02-metaCharacters.pl)  
 [3. Character Classes](https://github.com/soohoo05/perl-basics/blob/master/02-regex/03-characterClasses.pl)  
-[4. Flags](https://github.com/soohoo05/perl-basics/blob/master/02-regex/04-flags.pl)  
+[4. I Flag](https://github.com/soohoo05/perl-basics/blob/master/02-regex/04-Iflag.pl)  
 [5. Sub Expressions](https://github.com/soohoo05/perl-basics/blob/master/02-regex/05-supExpressions.pl)  
+[6. G Flag](https://github.com/soohoo05/perl-basics/blob/master/02-regex/06-Gflag.pl)  
