@@ -1,9 +1,9 @@
-Perl Basics
+# Perl Basics
 
 
 Repository containing tutorial files on basic perl
 
-Table of contents
+## Table of contents
 
 [Part 1 - Perl Basics](https://github.com/soohoo05/perl-basics/tree/master/01-basics)  
 
