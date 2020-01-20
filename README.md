@@ -35,4 +35,10 @@ Repository containing tutorial files on basic perl
 [4. I Flag](https://github.com/soohoo05/perl-basics/blob/master/02-regex/04-Iflag.pl)  
 [5. Sub Expressions](https://github.com/soohoo05/perl-basics/blob/master/02-regex/05-supExpressions.pl)  
 [6. G Flag](https://github.com/soohoo05/perl-basics/blob/master/02-regex/06-Gflag.pl)  
-[7. Search and Replace](https://github.com/soohoo05/perl-basics/blob/master/02-regex/07-searchAndReplace.pl)
+[7. Search and Replace](https://github.com/soohoo05/perl-basics/blob/master/02-regex/07-searchAndReplace.pl)  
+
+[Part 3 - Object Oriented Programming](https://github.com/soohoo05/perl-basics/tree/master/03-OOP)  
+
+[1. Intro to OOP](https://github.com/soohoo05/perl-basics/blob/master/03-OOP/01-introToOOP.pl)  
+[2. How to use Packages](https://github.com/soohoo05/perl-basics/blob/master/03-OOP/02-usePackages.pl)  
+[3. Creating a variable using a package](https://github.com/soohoo05/perl-basics/blob/master/03-OOP/03-createObject.pl)
